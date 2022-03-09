@@ -1,0 +1,8 @@
+story within a story doesnt work with arg stories
+
+canvas element in play function (cpmponent  in default args? )
+
+waitForElementToBeRemoved
+waitFor
+
+getByRole and getByTestId in canvas 
